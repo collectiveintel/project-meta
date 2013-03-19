@@ -1,0 +1,79 @@
+the Collective Intelligence Project
+
+The Collective Intelligence Framework Project (CIF) is an open-source based
+project framework dedicated to developing actionable, usable tool frameworks
+tailored to meet security operations intelligence needs. Strong governance 
+must be established for the CIF Project to ensure the long term success and 
+stability of the Collective Intelligence Framework project.
+
+There are four participation groups within the umbrella of the CIF Project:
+
+Committers
+
+Any "significant and sustained" contributor to the CIF project is
+eligible for membership. Although it is difficult to specify a precise
+definition, a contributor generally must have contributed to a
+non-trivial improvement of the the CIF project or CIF's activity.
+Contributions may be code, documentation, translations, maintenance of
+project-wide resources or other non-trivial activities which benefit
+the CIF project. Committer eligibility is an individual determination: while
+contributions made in the course of employment will be considered, they
+will generally be ascribed to the individuals involved, rather than
+accruing to all employees of a "contributing" corporation. Initial
+membership of the Committers will be identified in a document included
+with the formation documentation of the CIF project. A Committer Membership and
+Elections Committee will be established to maintain Committer membership.
+
+All committers must complete a copyright assignment to the CIF project. 
+The CIF project will make all of the code assigned to it available to the 
+public under various licenses as denoted by each repository. By default, 
+where applicable, and unless otherwise specified, the LGPL v2.1.
+
+Community
+
+Any member of the public can become a CIF project Community Participant. All
+Committers are also automatically Community Participants. Community
+Participants must agree that their participation as Community
+Participants is in their individual capacity and not on behalf of any
+corporate entity or other organization. The Community may be asked by
+the Board of Directors from time to time to vote on certain issues.
+
+Advisory Board
+
+The Advisory Board is made up of individuals, community members and
+organizations that support the CIF project. The Advisory Board has no
+corporate decision-making authority but provides a vehicle for its
+members to communicate with the Board and help the Directors guide the
+overall direction of the CIF project. The Advisory Board will
+appoint up to five (5) members who will be non-voting attendees of Board
+meetings. The Advisory Board will meet up to twice per year. The
+Advisory Board may be asked by the Board of Directors from time to time
+to vote upon certain issues relevant to the the CIF project, such
+as on particular feature sets to develop.
+
+Initial membership of the Advisory Board shall be boot-strapped by the 
+founding project members for the period of up to two years. At the end
+of the boot-strapping period; Advisory Board members shall be by nomination 
+and vote by the Community Members.
+
+Board of Directors
+
+The Board of Directors will initially consist of seven (7) members, boot-strapped by the founding project members. Future boards will be elected annually by the Committers and Advisory Board. The Board shall
+meet up to twice per year to discuss various topics pertaining to
+the regular activities of the CIF project.
+
+The members of the Board may be removed from the position at any time by
+a majority vote of the Committers and Advisory Board. Upon the
+resignation or removal of a member of the Board, the Committers shall
+elect a replacement Director.
+
+At times an issue may arise that merits gathering consensus from the
+community. Any Committer, Community Participant or Advisory Board member
+can suggest a referendum. To be accepted, a request for a referendum
+must be endorsed by 20% of any of (a) the Committers, (b) the Community
+Participants or (c) the Advisory Board members.
+
+A 75% vote of all of the Committers can override a Board decision.
+
+The bylaws may be amended by a 75% vote of all the Committers.
+
