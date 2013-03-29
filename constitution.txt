@@ -1,19 +1,19 @@
 the Collective Intelligence Project
 
-The Collective Intelligence Framework Project (CIF) is an open-source based project framework dedicated to developing actionable, usable tool frameworks tailored to meet security operations intelligence needs. Strong governance must be established for the CIF Project to ensure the long term success and stability of the Collective Intelligence ramework project.
+The Collective Intelligence Framework Project (CIF) is an open-source based project framework dedicated to developing actionable, usable tool frameworks tailored to meet security operations intelligence needs. Strong governance must be established for the CIF Project to ensure the long term success and stability of the Collective Intelligence framework project.
 
 There are four participation groups within the umbrella of the CIF Project:
+
+Community
+
+Any member of the public can become a CIF project Community Participant. All Committers are also automatically Community Participants. Community Participants must agree that their participation as Community Participants is in their individual capacity and not on behalf of any corporate entity or other organization. The Community may be asked by the Leadership Board from time to time to vote on certain issues.
 
 Committers
 
 Any "significant and sustained" contributor to the CIF project is eligible for membership. Although it is difficult to specify a precise definition, a contributor generally must have contributed to a non-trivial improvement of the the CIF project or CIF's activity. Contributions may be code, documentation, translations, maintenance of project-wide resources or other non-trivial activities which benefit the CIF project. Committer eligibility is an individual determination: while contributions made in the course of employment will be considered, they will generally be ascribed to the individuals involved, rather than accruing to all employees of a "contributing" corporation. Initial membership of the Committers will be identified in a document included with the formation documentation of the CIF project. A Committer Membership and Elections Committee will be established to maintain Committer membership.
 
-All committers must complete a copyright assignment to the CIF project. The CIF project will make all of the code assigned to it available to the public under various licenses as denoted by each repository. By default, where applicable, and unless otherwise specified, the LGPL v2.1.
-
-Community
-
-Any member of the public can become a CIF project Community Participant. All Committers are also automatically Community Participants. Community Participants must agree that their participation as Community Participants is in their individual capacity and not on behalf of any corporate entity or other organization. The Community may be asked by the Board of Directors from time to time to vote on certain issues.
-
+All committers are encouraged complete a copyright assignment to the CIF project. The CIF project will make all of the code assigned to it available to the public under various licenses as denoted by each repository. By default, where applicable, and unless otherwise specified, the LGPL v2.1. If an assignment is not completed, through the act of a "pull-request" towards the project will assume the projects full, explicit ownership of the contributed request and everything contained within.
+ 
 Leadership Board
 
 The Leadership Board is made up of individuals, community members and organizations that support and have direct stake in the project. The Leadership Board provides a vehicle for its members to communicate with and guide the overall direction of the project. The Leadership Board will meet up to twice per year as necessary. The role of the Leadership Board is to provide leadership, which includes guidence to the project, resources to the project and facilitation of the community.
