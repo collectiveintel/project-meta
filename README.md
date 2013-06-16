@@ -8,7 +8,7 @@ Community Roles
 
 There are four participation groups within the the CIF Project community:
 
-Community Participants
+Participants
 --
 
 Any member of the public can become a CIF Project Community Participant. All Committers are also automatically Community Participants. Community Participants must agree that their participation in the CIF Project is in their individual capacity and not on behalf of any corporate entity or other organization. The Community may be asked by the Leadership Board to vote on certain issues from time to time.
