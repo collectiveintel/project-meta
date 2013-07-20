@@ -1,0 +1,126 @@
+This document (“Agreement”) is a legal agreement between You, either an individual or a Legal Entity, and the Collective Intelligence Foundation ("the Foundation"), a not-for-profit organization incorporated in New York, covering Your permissions to use, reproduce, and distribute the Collective Intelligence Framework v1 (the "Software") under the License terms defined hereby.
+
+1. Definitions
+
+“Agreement Name” shall mean the name used to reference this Agreement in any context, which is “CIF OEM License Agreement v1”.
+
+“Software” or “CIF” shall mean the copyrighted material owned by the the Foundation, subject to the terms of this License. The Software is publicly, uniquely, and in its entirety recognizable by the ‘CIF’ name (“Software Name”).
+
+“Software Release” or “Release” shall mean a set of files distributed by the Foundation or anyone authorized to distribute it, that represents the Software. A Release is uniquely identified by the Software Name and a code. Such code is generally referenced as the Software version or revision number, or a combination of both.
+
+“Release Date” shall mean the day that the Foundation started distributing a Release.
+
+“Product” shall mean a single computer program or one or more websites (“Program”) (i) owned by You, or (ii) to which the owner grants You the permission to act in behalf of the owner for the purposes of this Agreement. A Program family or a group of Programs does not constitute a Product for the scope of this Agreement. A Program that goes in competition with the Software in the marketplace does not constitute a valid Product for the scope of this Agreement.
+
+“Development Activity” shall mean the act of interacting with the Software or one of its Releases, in any number of Products owned or produced by You, with the intent of installation, customization, configuration, testing, documentation, or any other software development activity related to the Software.
+
+“Developer” shall mean an authorized person designated by You to perform Development Activities.
+
+“Legal Entity” shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control of that entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+“LGPL” shall mean the document publicly recognized as the GNU Lesser General Public License, Version 3.0. The full text of the LGPL is available at http://www.gnu.org/licenses/lgpl-3.0.txt. The definitions described in Section 1 in this Agreement do not apply to the LGPL terms.
+
+“Effective Date” means the date on which the Legal Evidence is made effective.
+
+"Contribution Agreement" shall refer to the agreement governing contributions made to the Foundation. This means any Code, designs, templates, methods, ideas, inventions, written materials, software, source code, object code, technologies or anything else sent by You to the Foundation. The full text of this agreement can be found at collectiveintel.org/agreements/contrib.
+
+“You” (or “Your”) shall mean an individual or a Legal Entity exercising permissions granted by the License and accepting this Agreement.
+
+2. Grant of License
+
+Subject to the terms and conditions of the LGPL and this Agreement, the Foundation hereby grants You, in one of the License Models described in Section 5, a non-exclusive, perpetual, irrevocable, royalty free, worldwide license (“License”) to use, reproduce, modify, and distribute a Software Release in a collective work assembled with the Product.
+
+You should carefully read the following terms and conditions before using, installing, copying, or distributing the Software. Unless otherwise agreed in writing by the Foundation, your use, installation, copying, or distribution of the Software indicates your acceptance of this License.
+
+3. Conflict between the LGPL and this Agreement
+
+Any term or condition expressed in the LGPL, which conflicts with the terms of this Agreement, are to be deleted, prevailing the later over the former.
+
+4. Scope of License
+
+All rights of any kind to the Software, which are not expressly granted in this Agreement, are entirely and exclusively reserved to and by the Foundation. The Software is protected by applicable national and international laws and treaties.
+
+You may use, install, copy, and distribute the Software solely as provided in this Agreement. You may not rent, lease, loan, sublicense the Software in whole or in part, nor permit anyone else to do so, unless an additional license is available for such scope.
+
+In consideration of the license set forth herein, you agree to pay a license fee (“License Fee”).
+
+5. Agreement Acceptance
+
+This Agreement is automatically accepted by both parties as long as You are in possession of legal evidence (“Legal Evidence”) that the acceptance has taken place. The Legal Evidence can be represented by (i) a copy of this Agreement signed by You and the Foundation or (ii) a valid Certificate of License Ownership, provided by the Foundation and addressed to You. The Legal Evidence must precisely indicate this Agreement Name, the Software Name.
+
+Legal Evidences are not transferable.
+
+As part of this Agreement You implicitly accept the Foundation's "Contribution Agreement" 
+
+6. Limitation on Releases
+
+This agreement is valid for all Releases of the Software with Release Dates within or before the 365 days that follow the Effective Date (“Upgrade Period”). The Foundation has no obligation to provide you any Release that is not released for general distribution to other CIF licensees. Nothing in this Agreement shall be construed to obligate the Foundation to provide additional Releases to You under any circumstances.
+
+7. Support
+
+The Foundation shall provide support for Developers covered by valid Developer licenses for the period of 365 days following the Effective Date (“Support Period”). Support shall be limited to electronic messaging access. The Foundation shall keep You informed, either per CIF readiness or by following your request, including changes to it, about the rules and procedures that You must perform to enjoy support under the terms of this Agreement. Support topics shall be limited to the following (each a “Support Request”):
+
+a) problem solving,
+b) bug reporting,
+c) and documentation clarification.
+The number of Support Requests that the Foundation is entitled to accept from You is limited to 5 per month. The Foundation may refuse Support Requests that exceed these limits.
+
+The Foundation is not in any way obliged to perform bug fixing or custom development activities as a result of a Support Request.
+
+8. License Fee
+
+In consideration for the License granted in this Agreement during the term of this Agreement, You agreed to pay to the Foundation a one time fee (“License Fee”).
+
+In consideration for the Software upgrades access and support services provided during the Upgrade Period and Support Period, You shall pay a yearly fee (“Annual Support and Upgrade Fee”).
+
+The License Fee and the Annual Support and Upgrade Fee amount shall be specified by the Foundation at the moment of the purchase as single unified price.
+
+The fees listed in this Agreement do not include taxes. If the Foundation is required to pay any sales, use, property, excise, value added, gross receipts, withholding or other taxes levied on the Software or support under this Agreement or on Your use thereof, then such taxes shall be billed to and paid by You. This Section does not apply to taxes based on the Foundation net income, franchise taxes or the Foundation's employer contributions and taxes.
+
+You understand that the Foundation uses third-party paying agents to process selected payments. You understand that until payments are received and verified by the paying agent, this Agreement is not valid.
+
+All payments made hereunder are nonrefundable. You may not withhold or set off any amounts due under this Agreement. Failure to pay any fee when due shall constitute a material breach of this Agreement. In addition, if You fail to make any payments when due for support, upon written notice to You, the Foundation shall cease providing support.
+
+9. Automatic Renewal
+
+You may opt to automatically extend the expiration date for both the Upgrade Period and Support Period by successive cycles of 365 days (each one a “Renewal”). In such case, you agree to pay a fee for each Renewal at the beginning of each cycle. The annual Renewal fee shall be informed by the Foundation at the moment of the purchase and optionally agreed by you.
+
+If you opted to have automatic Renewals, the Foundation shall send you a payment request for the Renewal fee at any moment following the first day of each Renewal period. You shall perform the full payment in 30 calendar days following the payment request.
+
+Both parties can discontinue the automatic Renewals by written notification to the other party before the beginning of extension cycles.
+
+10. Exclusions from this License Grant
+
+Nothing in this Agreement shall be interpreted to prohibit the Foundation from licensing the Software under terms different from the LGPL or this Agreement. No other promises and rights are conceded by the Foundation other than those expressly under this Agreement.
+
+11. Reservation of Rights and Ownership
+
+The Foundation reserves all rights not expressly granted to You in this Agreement. The Software is protected by copyright and other intellectual property laws and treaties. The Foundation owns the title, copyright, and other intellectual property rights in the Software. The Software is licensed, not sold. This Agreement does not grant you any rights to the Software’s trademarks or services.
+
+12. Termination
+
+Without prejudice to any other rights, this Agreement automatically terminates if You fail to comply with the terms and conditions of this Agreement. You may terminate this Agreement at any time without cause. In case of termination, in any circumstance, payments issued by You will not be reimbursed.
+
+You shall immediately discontinue distribution of Product, assembled with the Software, upon expiration or termination of this Agreement.
+
+13. Warranty
+
+The Foundation warrants that it has full title and ownership to the Software and has the authority to grant the license hereunder. To the best of the Foundation’s knowledge the Software does not infringe upon the intellectual property rights of any third party and that the Foundation did not receive any notice regarding any alleged infringement thereof.
+
+14. Disclaimer of Warranties
+
+With the exclusion of warranties explicitly mentioned in Section 14, the Software and its related material are provided “AS IS” and without warranty of any kind. The Foundation expressly disclaims all other warranties, expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
+
+15. Exclusion of Incidental, Consequential and Certain Other Damages
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE FOUNDATION BE LIABLE FOR ANY SPECIAL, INCIDENTAL, PUNITIVE, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY, FOR FAILURE TO MEET ANY DUTY INCLUDING OF GOOD FAITH OR OF REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY OTHER PECUNIARY OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT OR OTHER SERVICES, INFORMATION, SOFTWARE, AND RELATED CONTENT THROUGH THE SOFTWARE OR OTHERWISE ARISING OUT OF THE USE OF THE SOFTWARE, OR OTHERWISE UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS AGREEMENT, EVEN IN THE EVENT OF THE FAULT, TORT (INCLUDING NEGLIGENCE), MISREPRESENTATION, STRICT LIABILITY, BREACH OF CONTRACT, AND EVEN IF THE OWNER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+16. Limitation of Liability
+
+In no event shall the Foundation’s liability exceed the License Fee paid, if any.
+
+17. Governing Law and Venue
+
+This Agreement shall be construed and controlled by the laws of New York and the United States, and You and the Foundation further consent to exclusive jurisdiction by the courts of New York and The United States.
+
+END OF AGREEMENT TERMS

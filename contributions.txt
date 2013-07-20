@@ -1,0 +1,29 @@
+Contribution Agreement 
+
+IMPORTANT-READ CAREFULLY: This Contribution Agreement (the "Agreement") is a legal agreement between you (either an individual or a single entity, the "User" or "you") and the the Collective Intelligence Foundation ("the Foundation" or "we") for donating any software code or any other Materials (defined below) to the Foundation.
+
+Assignment of Ownership 
+
+For the good and valuable consideration of software created by the Foundation free of charge to You under the LGPL, the receipt and sufficiency of which is hereby acknowledged, User hereby irrevocably and perpetually assigns, transfers, conveys and sets over to the Foundation, and the Foundation hereby accepts the assignment, transfer, conveyance and set over, User's entire worldwide and perpetual right, title and interest in and to the Materials including but not limited to all Intellectual Property Rights in the Materials. User will give the Foundation or its designee all assistance reasonably required to register, perfect, enforce and apply for and obtain in the Foundation's name patent, copyright, trademark and other Intellectual Property Rights in any and all jurisdictions. For the avoidance of doubt, your assignment under this paragraph does not revert to you for any reason but perpetually and forever remains with the Foundation.
+
+"Materials" means any Code, designs, templates, methods, ideas, inventions, written materials, software, source code, object code, technologies or anything else sent by You to the Foundation.
+
+"Intellectual Property Rights" means any trade secret, know how, copyright, moral right, data right, trade or service mark, trade or service name, patent, business process, or other proprietary right arising under the laws of the United States and any other jurisdiction or any treaty, including any application for, or extension or derivative works or translations of, any of the foregoing in this Intellectual Property Rights definition.
+
+Representations and Warranties
+
+You represent and warrant that you have all necessary rights to use any Material that you submit to the Foundation.
+
+You waive any and all moral rights, including, without limitation, any rights arising under Chapter 7 of the Copyright and Related Rights Act 2000 applicable to European Union residents, and all rights of a similar nature in any jurisdiction in any Material, including source code that You submit to the Foundation. This waiver is in favor of the Foundation.
+
+You are also prohibited from posting or otherwise submitting to the Foundation any Material that infringes on any copyright, trademark or other proprietary rights of another (including publicity and privacy rights). 
+
+We reserve the right to remove any Materials in response to complaints of infringement or to otherwise review or edit the Materials as appropriate, in our sole discretion and without notice.
+
+Choice of Law and Forum
+
+This Agreement is governed by the laws of the State of New York. You hereby agree to submit to the exclusive jurisdiction of the courts of the State of New York. To the extent that applicable laws have mandatory application to this Agreement or give you the right to bring action in any other courts, the above limitations may not apply to you. 
+
+Severability and Enforceability
+
+If a court of competent jurisdiction finds any provision of this Agreement to be void, invalid, or unenforceable, we will reform the void, invalid, or unenforceable provision to comply with applicable law or, if the void, invalid, or unenforceable provision is not conformable, we will strike the void, invalid, or unenforceable provision so as not to affect the validity or enforceability of this Agreement.
