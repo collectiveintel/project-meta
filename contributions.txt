@@ -1,6 +1,8 @@
 Contribution Agreement 
 
-IMPORTANT-READ CAREFULLY: This Contribution Agreement (the "Agreement") is a legal agreement between you (either an individual or a single entity, the "User" or "you") and the the Collective Intelligence Foundation ("the Foundation" or "we") for donating any software code or any other Materials (defined below) to the Foundation.
+This Contribution Agreement (the "Agreement") is a legal agreement between you (either an individual or a single entity, the "User" or "you") and the the Collective Intelligence Foundation ("the Foundation" or "we") for donating any software code or any other Materials (defined below) to the Foundation.
+
+The latest release of this agreement can be found at https://github.com/collectiveintel/agreements/releases
 
 Assignment of Ownership 
 
