@@ -1,5 +1,7 @@
 Contribution Agreement 
 
+The content of this agreement is considered CC BY-SA 3.0, http://creativecommons.org/licenses/by-sa/3.0 and may be re-used as per the rules of this license. Attribution is NOT required.
+
 This Contribution Agreement (the "Agreement") is a legal agreement between you (either an individual or a single entity, the "User" or "you") and the the Collective Intelligence Foundation ("the Foundation" or "we") for donating any software code or any other Materials (defined below) to the Foundation.
 
 The latest release of this agreement can be found at https://github.com/collectiveintel/agreements/releases

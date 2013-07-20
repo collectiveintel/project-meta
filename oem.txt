@@ -1,5 +1,7 @@
 OEM License Agreement
 
+The content of this agreement is considered CC BY-SA 3.0, http://creativecommons.org/licenses/by-sa/3.0 and may be re-used as per the rules of this license. Attribution is NOT required.
+
 This OEM Agreement (the “Agreement”) is a legal agreement between You, either an individual or a Legal Entity, and the Collective Intelligence Foundation ("the Foundation"), a not-for-profit organization incorporated in New York, covering Your permissions to use, reproduce, and distribute the Collective Intelligence Framework v1 (the "Software") under the License terms defined hereby.
 
 The latest release of this agreement can be found at https://github.com/collectiveintel/agreements/releases
