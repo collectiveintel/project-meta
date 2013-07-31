@@ -1,4 +1,4 @@
-ARTICLE 1 NAMD AND PURPOSE
+ARTICLE 1 NAME AND PURPOSE
 
 The Collective Intelligence Foundation is dedicated to developing actionable, usable tool frameworks tailored to meet security operations intelligence needs. Strong governance must be established to ensure the long term success and stability of the Foundation. The intent of this constitution is to help ensure the long term sustainability and continuity of the project by establishing an initial structure, roles and responsibilities for the Foundation. The Foundation is formed exclusively as a nonprofit trade association within the meaning of Section 501(c)(6) of the Internal Revenue Code of 1986. The Foundation shall have and may exercise all the rights and powers given to nonprofit non-stock corporations under General Corporation Law of <STATE>.
 
