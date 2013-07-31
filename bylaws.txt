@@ -4,21 +4,21 @@ The Collective Intelligence Foundation is dedicated to developing actionable, us
 
 ARTICLE 2 MEMBERSHIP
 
-SECTION 2.1 Definitions. The Collective Intelligence Foundation is a member-based organization. Membership is divided into the following categories: "Founding Members", “Full Members”,"Commercial Members", "Start-Up Members", "Laison Members" and “Contributors”. Where not otherwise specified, “Member” refers to “Full Member”.
+SECTION 2.1 Definitions. The Collective Intelligence Foundation is a member-based organization. Membership is divided into the following categories: "Founding Members", “Full Members”,"Commercial Members", "Start-Up Members", "Liaison Members" and “Contributors”. Where not otherwise specified, “Member” refers to “Full Member”.
 
-SECTION 2.2 Membership Policy. All members are subject to board of director approval until a formal membership committe is formed, executed and policy can be formed. Membership status of all potential members will be determined by the board and a 66.66% vote until a more formal policy can be vetted.
+SECTION 2.2 Membership Policy. All members are subject to board of director approval until a formal membership committee is formed, executed and policy can be formed. Membership status of all potential members will be determined by the board and a 66.66% vote until a more formal policy can be vetted.
 
-SECTION 2.3 Founding Members. A Founding Member is an individual who boot-straped the community and can be found in ARTICLE 7. Founding members maintain full control over the organziation until such a time where the organization is stable, self-sustaining and where a full operational governance structure has been matured. The Founding Members shall make up the initial board of directors and shall have the ability to alter this document with a 66.66% vote.
+SECTION 2.3 Founding Members. A Founding Member is an individual who bootstrapped the Foundation and can be found in ARTICLE 7. Founding members maintain full control over the organization until such a time where the organization is stable, self-sustaining and where a full operational governance structure has been matured. The Founding Members shall make up the initial board of directors and shall have the ability to alter this document with a 66.66% vote.
 
 SECTION 2.4 Full Members. A Full Member is a trusted member of the organization who is actively contributing to the organization and/or its reputation.
 
-SECTION 2.5 Commercial Members. A Commerical or Start-Up Member is a member who joins, contributes to and has an interest in commercializing tools and frameworks developed within the community. These members typically offer some value add to communities outside the initial membership reach.
+SECTION 2.5 Commercial Members. A Commercial or Start-Up Member is a member who joins, contributes to and has an interest in commercializing tools and frameworks developed within the Foundation. These members typically offer some value add to communities outside the initial membership reach.
 
-SECTION 2.6 Laison Members. A Laision Member is an individual (rather than a corporate entity) that has intrinsic value to the Foundation. These members are typically individuals who find value in the community, regularly contribute to the communities sustainability.
+SECTION 2.6 Liaison Members. A Liaison Member is an individual (rather than a corporate entity) that has intrinsic value to the Foundation. These members are typically individuals who find value in the Foundation, regularly contribute to the communities sustainability.
 
-SECTION 2.7 Membership Fees. To help finance the operations of the community, vetted members will pay a yearly fee which will also entitle them to major releases of specified frameworks under more permissive licensing terms for the period of one year. Such period may be renewed at the discression of the board of directors. Terms and conditions shall be specified under a seperate 'OEM' agreement on a per-relationship basis.
+SECTION 2.7 Membership Fees. To help finance the operations of the Foundation, vetted members will pay a yearly fee which will also entitle them to major releases of specified frameworks under more permissive licensing terms for the period of one year. Such period may be renewed at the discretion of the board of directors. Terms and conditions shall be specified under a separate 'OEM' agreement on a per-relationship basis.
 
-SECTION 2.8 Sponsor. A Sponsor is an individual or corporate entity that does not or is not able to participate as an official member. Sponsors are able to regularly able to contribute in lesser amounts than normal members. Regular Sponsors (yearly) will receive recognition for their contribution on the Foundations website but will not receive the benifits of membership (license, etc).
+SECTION 2.8 Sponsor. A Sponsor is an individual or corporate entity that does not or is not able to participate as an official member. Sponsors are able to regularly able to contribute in lesser amounts than normal members. Regular Sponsors (yearly) will receive recognition for their contribution on the Foundations website but will not receive the benefits of membership (license, etc).
 
 SECTION 2.9. Agreements. All members are required to sign an MOU documenting their relationship agreement with the Foundation.
 
@@ -26,7 +26,7 @@ ARTICLE 3 GOVERNANCE
 
 SECTION 3.1 Board of Directors
 
-SUBSECTION 3.1.1 Powers. The business and affairs of the Corporation shall be managed by or under the direction of the Board of Directors, which may exercise all such powers of the Incorporation or by these Bylaws specifically reserved to the Members. The Board of Directors shall also be responsible for developing policies and proceduresconcerning the operation of the Project including (but not limited to) policies for solicitation, acceptance and management of grants, contracts and donations.
+SUBSECTION 3.1.1 Powers. The business and affairs of the Corporation shall be managed by or under the direction of the Board of Directors, which may exercise all such powers of the Incorporation or by these Bylaws specifically reserved to the Members. The Board of Directors shall also be responsible for developing policies and procedures concerning the operation of the Project including (but not limited to) policies for solicitation, acceptance and management of grants, contracts and donations.
 
 SUBSECTION 3.1.2 Number. The Corporation shall have no more than seven (7) Directors.
 
@@ -34,20 +34,20 @@ SUBSECTION 3.1.3 Quorum and Voting. Two-thirds (66.66%) of the Directors fixed i
 
 SUBSECTION 3.1.4 Election. Director nominations must be from and of existing Full or Founding Members. Nominations will only be considered in the event of an existing vacancy.
 
-SECTION 3.2 Adisory Board
+SECTION 3.2 Advisory Board
 
 SUBSECTION 3.2.1 Powers. The Advisory Board shall be comprised of the Members. The Advisory Board has no corporate decision-making authority or board voting rights, but provides a vehicle for its members to communicate with the Board and help the Directors guide the overall direction of the Foundation.
 
 SUBSECTION 3.2.2 Number. The Corporation shall have no more than five (5) Advisory Board Members.
 
-SUBSECTIOn 3.2.3 Election. Advisory Board members shall be nominated and elected by the Members of the Foundation.
+SUBSECTION 3.2.3 Election. Advisory Board members shall be nominated and elected by the Members of the Foundation.
 
 ARTICLE 4 INTELLECTUAL PROPERTY
 The intent of our Intellectual Property policy is to ensure both the author of the original work and the community at large can benefit from the work.
 
 SECTION 4.1 Copyright. Copyright determines who owns the 'work'. The copyright holder is the one who determines what license the 'work' is distributed as.
 
-SUBSECTION 4.1.1 Software. Any contributions (major or minor) will be accepted as contributions to the project. By contributing to the project authors are transfering any rights to their contribution and asserts they have the right to contribute and transfer these rights. Where applicable credit will be given to the author(s). Members are required to sign contribution agreements with the Foundation in a 'best effort' to ensure the integrity of the code bases.
+SUBSECTION 4.1.1 Software. Any contributions (major or minor) will be accepted as contributions to the project. By contributing to the project authors are transferring any rights to their contribution and asserts they have the right to contribute and transfer these rights. Where applicable credit will be given to the author(s). Members are required to sign contribution agreements with the Foundation in a 'best effort' to ensure the integrity of the code bases.
 
 SUBSECTION 4.1.2 Presentations and Papers. Copyrights in papers or presentations published through the Foundation are to be assigned to the Foundation and are in all cases to be CCv3 licensed as defined by http://creativecommons.org/licenses/by-sa/3.0 unless otherwise specified. Authors are given full recognition for their authorship in the paper, if they so desire.
 
@@ -55,27 +55,27 @@ SECTION 4.2 License. License determines who and how people can use, modify, and 
 
 SUBSECTION 4.2.1 Software. Any software developed within or distributed through the Foundation must be open source, as defined by http://www.opensource.org. We recommend the use of the LGPLv2 license but any open source license is acceptable.
 
-SUBSECTION 4.3 Agreements. All contributing members are required to sign a contribution agreement with the organization in the event they wish to contribute any 'works' to the project (patches, bugfixes, or features).
+SUBSECTION 4.3 Agreements. All contributing members are required to sign a contribution agreement with the organization in the event they wish to contribute any 'works' to the project (patches, bug-fixes, or features).
 
 ARTICLE 5 LIABILITY AND INDEMNIFICATION
 
-SECTION 5.1 Definitions. For purposes of this ARTICLE, references to “the Corporation” shall include, in addition to the resulting Corporation, any constituent Corporation (including any constituent of a constituent) absorbed in a consolidation or merger which, if its separate existence had continued, would have had power and authority to indemnify its Directors, Officers, and employees or agents, so that any person who is or was a Director, Officer, employee or agent of such constituentCorporation, or is or was serving at the request of such constituent Corporation as a Director, Officer, employee or agent of another Corporation, partnership, joint venture, trust or other enterprise, shall stand in the same position under this ARTICLE with respect to the resulting orsurviving Corporation as he orshe would have with respect to such constituent Corporation if its separate existence had continued, and references to “other enterprises” shall include employee benefit plans; references to “fines” shall include any excise taxes assessed on a person with respect to any employee benefit plan; and references to “serving at the request of the Corporation” shall include any service as a Director, Officer, employee or agent of the Corporation which imposes duties on, or involves services by, such Director, Officer, employee, or agent with respect to an employee benefit plan, its participants, or beneficiaries; and a person who acted in good faith and in a manner he or she reasonably believed to be in the interest of the participants and beneficiaries of an employee benefit plan shall be deemed to have acted in a manner “not opposed to the best interests of the Corporation” as referred to in this ARTICLE.
+SECTION 5.1 Definitions. For purposes of this ARTICLE, references to “the Corporation” shall include, in addition to the resulting Corporation, any constituent Corporation (including any constituent of a constituent) absorbed in a consolidation or merger which, if its separate existence had continued, would have had power and authority to indemnify its Directors, Officers, and employees or agents, so that any person who is or was a Director, Officer, employee or agent of such constituentCorporation, or is or was serving at the request of such constituent Corporation as a Director, Officer, employee or agent of another Corporation, partnership, joint venture, trust or other enterprise, shall stand in the same position under this ARTICLE with respect to the resulting or surviving Corporation as he or she would have with respect to such constituent Corporation if its separate existence had continued, and references to “other enterprises” shall include employee benefit plans; references to “fines” shall include any excise taxes assessed on a person with respect to any employee benefit plan; and references to “serving at the request of the Corporation” shall include any service as a Director, Officer, employee or agent of the Corporation which imposes duties on, or involves services by, such Director, Officer, employee, or agent with respect to an employee benefit plan, its participants, or beneficiaries; and a person who acted in good faith and in a manner he or she reasonably believed to be in the interest of the participants and beneficiaries of an employee benefit plan shall be deemed to have acted in a manner “not opposed to the best interests of the Corporation” as referred to in this ARTICLE.
 
-SECTION 5.2 Liability. No Membershall be personally liable forthe debts, liabilities, or other obligations (absent of fraud) of the Foundation. The Foundation shall not be liable for any damage arising out of the activities of the Foundation which are initiated and conducted in good faith and within a framework of volunteerism.
+SECTION 5.2 Liability. No Member shall be personally liable for the debts, liabilities, or other obligations (absent of fraud) of the Foundation. The Foundation shall not be liable for any damage arising out of the activities of the Foundation which are initiated and conducted in good faith and within a framework of volunteerism.
 
-SECTION 5.3 Right to Indemnification. Each person who was or is a party or is threatened to be made a party to any threatened, pending or completed action, suit, or proceeding, whether civil, criminal, administrative, orinvestigative (otherthan an action by or in the right of the Corporation), by reason of the fact that he or she is or was a Director, Officer or Member of the Corporation, oris or wasserving at the request of the Corporation as a Director, Officer, employee, or agent of another corporation, partnership, joint venture, trust, or other enterprise, shall be entitled to indemnification against expenses (including attorneys’ fees), judgments, fines, and amounts paid in settlement to the fullest extent now or hereafter permitted by applicable law as long as such person acted in good faith and in a mannerthatsuch person reasonably believed to be in or not be opposed to the best interests of the Corporation; provided, however, that the Corporation shall indemnify any such person seeking indemnity in connection with an action, suit or proceeding(or part thereof) initiated by such person only if such action, suit or proceeding (or part thereof) was authorized by the Board of Directors.
+SECTION 5.3 Right to Indemnification. Each person who was or is a party or is threatened to be made a party to any threatened, pending or completed action, suit, or proceeding, whether civil, criminal, administrative, or investigative (other than an action by or in the right of the Corporation), by reason of the fact that he or she is or was a Director, Officer or Member of the Corporation, or is or was serving at the request of the Corporation as a Director, Officer, employee, or agent of another corporation, partnership, joint venture, trust, or other enterprise, shall be entitled to indemnification against expenses (including attorneys’ fees), judgments, fines, and amounts paid in settlement to the fullest extent now or hereafter permitted by applicable law as long as such person acted in good faith and in a manner that such person reasonably believed to be in or not be opposed to the best interests of the Corporation; provided, however, that the Corporation shall indemnify any such person seeking indemnity in connection with an action, suit or proceeding(or part thereof) initiated by such person only if such action, suit or proceeding (or part thereof) was authorized by the Board of Directors.
 
 ARTICLE 6 GENERAL PROVISIONS
 
 SECTION 6.1 Amendments. These bylaws may be altered, amended, replaced or added to by a 66.66% or greater vote in the affirmative by the board of directors.
 
-SECTION 6.2 Transfers. Memembers have the ability to transfer any 'works' or 'assets' to the Foundation they wish to be fostered and incubated. The Foundation has the right to reject these works if deemed that it is not the right place or the Foundation does not have the resources to facilitate.
+SECTION 6.2 Transfers. Members have the ability to transfer any 'works' or 'assets' to the Foundation they wish to be fostered and incubated. The Foundation has the right to reject these works if deemed that it is not the right place or the Foundation does not have the resources to facilitate.
 
-ARTICAL 7 INITIAL BOARD OF DIRECTORS
+ARTICLE 7 INITIAL BOARD OF DIRECTORS
 
 <FOUNDING MEMBERS HERE>
 
-ARTICAL 8 Agreements
+ARTICLE 8 Agreements
 
 SECTION 8.1 Repository. All master agreement templates shall be located at https://github.com/collectiveintel/agreements
 
