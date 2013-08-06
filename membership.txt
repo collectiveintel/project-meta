@@ -1,0 +1,67 @@
+# The content of this agreement is considered CC BY-SA 3.0, http://creativecommons.org/licenses/by-sa/3.0 and may be re-used as per the rules of this license. Attribution is NOT required.
+
+Membership Agreement
+
+This Collective Intelligence Foundation Membership Agreement ("this Agreement") is between the Collective Intelligence Foundation, a <STATE> non-stock, non-profit corporation ("the Foundation") and "NAME" a ("Member"), and is dated effective as the date listed below ("the Effective Date").
+
+1. BENEFITS. Subject to the terms of this Agreement, the Foundation will provide the member with the benefits described in Exhibit A at the Membership level "LEVEL" as negotiated and approved by the Foundation board and the applicant (the "Membership Benefits").
+
+2. OBLIGATIONS. Member implicitly agrees to comply with the Foundations Bylaws, Software License and Contribution Agreements at collectiveintel.org/legal. Member will provide graphics and other materials necessary for the Foundation to provide Member Benefits. Member will pay the fees due for the Membership Benefits.
+
+3. MARKS. The term "Marks" means each party's respective names, logos, trademarks, trade names, domain names, and other identifying indicia. 
+
+Member herby grants the Foundation a license to use the Member's Marks as necessary to provide the Membership Benefits on a realty free, non-exclusive, non-transferable, non-sublicenseable basis. The Foundation agrees to comply with the Member's trademark usage policies and ongoing instructions and supervision with respect to its Marks communicated to the Foundation, including (i) the content in which the Marks are used; (ii) the substitution of a newer version of a mark for the version previously authorized (where practicable); (iii) the size, color, and graphic quality of the display of the Marks; and (iv) all other matters within th reasonable discretion of the Member. Member reserves all rights in its Marks, including any non-English version of such Marks. The Foundation's use of Member's Marks shall inure to the benefit of the Member.
+
+4. PAYMENTS. Invoices for Membership Benefits shall be due thirty (30) days from invoice date. If Member fails to pay any amount when due, the Foundation may charge interest on the overdue amount at the rate of 18% per annum, or the highest rate permitted by applicable law, whichever is less. If any amount is more than thirty (30) days past due, and the Foundation brings a legal action to collect the overdue amount, Member shall be liable for The Foundation's reasonable costs of collection, including collection agency fees and reasonable attorney fees.
+
+5. INDEMNIFICATION. If The Foundation or any of its respective employees, agents or owners (collectively the "Foundation Indemnitees") is faced with a legal claim by a third party arising out of the use of the Member's Marks as permitted by this Agreement, Member will pay the cost of defending the claim (including reasonable attorney fees) and any damages award, fine, or other amount that is awarded against the Foundation Indemnitees as a result of the claim. This Section shall survive expiration or termination of this Agreement.
+
+6. TERM AND TERMINATION. The initial term of this Agreement will begin on the Effective Date and continue until the first anniversary of the Effective Date (the "Initial Term") either by written agreement of the parties, or by the Member's timely payment of the Foundation's renewal invoice. Either party my terminate this Agreement or a Membership Agreement without liability if the other party violates the terms of this Agreement, the Foundations Bylaws, the Software Agreement, the Contribution Agreement, or any other Agreement between the parties, and fails to cure such breach, if curable, within fifteen (15) days of the other party's written notice. Upon termination of this Agreement, each party will cease use of the other party's Marks as promptly as commercially practicable.
+
+7. MODIFICATION OF MEMBERSHIP BENEFITS FOR RENEWAL TERMS. The Foundation may modify the Membership Benefits and fees applicable for any renewal term by posting revised fees and benefits on collectiveintel.org. Any fee increase or change that reduces the Membership Benefits will become effective as to Member upon the beginning of the first Renewal Term that follows the date that the charges are posted by at least thirty (30) days.
+
+8. NOTICES. Legal notices shall be given via electronic mail and confirmed via first class U.S. mail to the address for The Foundation below, and to the Member's address stated below the signature block. Notices are deemed received on the day transmitted via electronic mail, or if that day is not a business day, on the first business day following the day delivered.
+
+legal@collectiveintel.org
+The Collective Intelligence Foundation
+PO…
+<STATE>
+
+9. OTHER. Neither party is the agent of the other, and neither party shall have any authority to make any promise, representation, or contract of any nature on behalf of the other party. The laws of the State of <STATE> (exclusive of its choice of law principals) and, to the extent applicable, the laws of the United States of America, govern this Agreement. This Agreement shall not be governed by the United Nations Convention on the International Sale of Goods. Exclusive venue for all disputes arising out of the Agreement shall be brought in the state or federal courts of <Bexar County, Texas>, and the parties agree not to bring an action in any other venue. The parties waive all objections to this venue and free not to dispute personal jurisdiction or venue in these courts. This Agreement supersedes all prior oral and written understandings, representations, communications, and agreements between the parties and constitutes the final and entire agreement of the parties regarding the subject matter of this Agreement.
+
+Each party has caused this Agreement to be executed by its duly authorized representative effective as of:
+
+
+_____________________ (the "Effective Date").
+
+
+The Collective Intelligence Foundation			[Members Full Legal Name]
+
+Signature:
+Email:
+Title:
+Date:
+
+Attach: Exhibit A
+
+The Member elects and the board agrees to the designated membership status of (please initial choice):
+
+_____ Full Member
+
+_____ Commercial Member
+
+_____ Startup Commercial Member
+
+_____ Individual Member
+
+Membership Benefits:
+
+* More permissive Software License to all works owned by and/or created by the Foundation as reflected in the Software License at: 
+
+* Designation as Member with Member's corporate logo placement in members section of collectiveintel.org
+
+* Profile on collectiveintel.org detailing your organizations support for CIF, with link to your site;
+
+
+
+
