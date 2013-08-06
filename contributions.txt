@@ -1,12 +1,14 @@
 # The content of this agreement is considered CC BY-SA 3.0, http://creativecommons.org/licenses/by-sa/3.0 and may be re-used as per the rules of this license. Attribution is NOT required.
 
 Contribution Agreement 
+==
 
 This Agreement (the “Agreement”) is a legal agreement between You, either an individual or a Legal Entity, and the Collective Intelligence Foundation ("the Foundation"), a not-for-profit organization incorporated in <STATE>, for donating any software code or any other Materials (defined below) to the Foundation.
 
 This Agreement is governed by the execution of a Membership Agreement ("Membership Agreement") between You and The Foundation. The Membership Agreement supersedes this Agreement.
 
-X. Assignment of Ownership 
+1. Assignment of Ownership 
+--
 
 For the good and valuable consideration of software created by the Foundation free of charge to You under the LGPL, the receipt and sufficiency of which is hereby acknowledged, User hereby irrevocably and perpetually assigns, transfers, conveys and sets over to the Foundation, and the Foundation hereby accepts the assignment, transfer, conveyance and set over, User's entire worldwide and perpetual right, title and interest in and to the Materials including but not limited to all Intellectual Property Rights in the Materials. User will give the Foundation or its designee all assistance reasonably required to register, perfect, enforce and apply for and obtain in the Foundation's name patent, copyright, trademark and other Intellectual Property Rights in any and all jurisdictions. For the avoidance of doubt, your assignment under this paragraph does not revert to you for any reason but perpetually and forever remains with the Foundation.
 
@@ -14,7 +16,8 @@ For the good and valuable consideration of software created by the Foundation fr
 
 "Intellectual Property Rights" means any trade secret, know how, copyright, moral right, data right, trade or service mark, trade or service name, patent, business process, or other proprietary right arising under the laws of the United States and any other jurisdiction or any treaty, including any application for, or extension or derivative works or translations of, any of the foregoing in this Intellectual Property Rights definition.
 
-X. Representations and Warranties
+2. Representations and Warranties
+--
 
 You represent and warrant that you have all necessary rights to use any Material that you submit to the Foundation.
 
@@ -24,7 +27,8 @@ You are also prohibited from posting or otherwise submitting to the Foundation a
 
 We reserve the right to remove any Materials in response to complaints of infringement or to otherwise review or edit the Materials as appropriate, at the Foundation's sole discretion and without notice.
 
-X. Choice of Law and Forum
+3. Choice of Law and Forum
+--
 
 This Agreement is governed by the laws of the <STATE>. You hereby agree to submit to the exclusive jurisdiction of the courts of the State of <STATE>. To the extent that applicable laws have mandatory application to this Agreement or give you the right to bring action in any other courts, the above limitations may not apply to you. 
 
