@@ -21,11 +21,11 @@ SECTION 2.5 Commercial Members. A Commercial or Start-Up Member is a member who 
 
 SECTION 2.6 Liaison Members. A Liaison Member is an individual (rather than a corporate entity) that has intrinsic value to the Foundation. These members are typically individuals who find value in the Foundation, regularly contribute to the communities sustainability.
 
-SECTION 2.7 Membership Fees. To help finance the operations of the Foundation, vetted members will pay a yearly fee which will also entitle them to major releases of specified frameworks under more permissive licensing terms for the period of one year. Such period may be renewed at the discretion of the board of directors. Terms and conditions shall be specified under a separate 'OEM' agreement on a per-relationship basis.
+SECTION 2.7 Membership Fees. To help finance the operations of the Foundation, vetted members will pay a yearly fee which will also entitle them to major releases of specified frameworks under more permissive licensing terms for the period of one year. Such period may be renewed at the discretion of the board of directors. Terms and conditions shall be specified under a separate Software Agreement on a per-relationship basis.
 
 SECTION 2.8 Sponsor. A Sponsor is an individual or corporate entity that does not or is not able to participate as an official member. Sponsors are able to regularly able to contribute in lesser amounts than normal members. Regular Sponsors (yearly) will receive recognition for their contribution on the Foundations website but will not receive the benefits of membership (license, etc).
 
-SECTION 2.9. Agreements. All members are required to sign an MOU documenting their relationship agreement with the Foundation.
+SECTION 2.9. Agreements. All members are required to sign a Membership Agreement documenting their relationship agreement with the Foundation.
 
 ARTICLE 3 GOVERNANCE
 --
