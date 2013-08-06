@@ -53,9 +53,9 @@ SUBSECTION 4.1.2 Presentations and Papers. Copyrights in papers or presentations
 
 SECTION 4.2 License. License determines who and how people can use, modify, and distribute a work.
 
-SUBSECTION 4.2.1 Software. Any software developed within or distributed through the Foundation must be open source, as defined by http://www.opensource.org. We recommend the use of the LGPLv2 license but any open source license is acceptable.
+SUBSECTION 4.2.1 Software. Any software developed within or distributed through the Foundation must be open source, as defined by http://www.opensource.org. We recommend the use of the LGPLv3 license but any open source license is acceptable.
 
-SUBSECTION 4.3 Agreements. All contributing members are required to sign a contribution agreement with the organization in the event they wish to contribute any 'works' to the project (patches, bug-fixes, or features).
+SUBSECTION 4.3 Agreements. All Members are required to sign and execute a membership agreement ("Membership Agreement") with the Foundation. By execution of the Membership Agreement, the Member implicitly agrees to the Software Agreement and the contribution agreement ("Contribution Agreement") and shall enjoy all rights and obligations thereof.
 
 ARTICLE 5 LIABILITY AND INDEMNIFICATION
 
@@ -73,13 +73,18 @@ SECTION 6.2 Transfers. Members have the ability to transfer any 'works' or 'asse
 
 ARTICLE 7 INITIAL BOARD OF DIRECTORS
 
-<FOUNDING MEMBERS HERE>
+Barely3am Solutions
+the REN-ISAC
+NickelCIty Software
+the Anti Phishing Working Group
+Smith-Sweeney Network & Security Consulting, LLC
+University of Washington Office of CISO
 
 ARTICLE 8 Agreements
 
 SECTION 8.1 Repository. All master agreement templates shall be located at https://github.com/collectiveintel/agreements
 
-SECTION 8.2 Releases. All recent releases of agreement templates shall be located at https://github.com/collectiveintel/agreements/releases
+SECTION 8.2 Releases. All recent releases of agreement templates shall be located at https://github.com/collectiveintel/agreements/releases and available at collectiveintel.org/legal
 
 SECTION 8.3 License. All agreements shall be released under CCv3 http://creativecommons.org/licenses/by-sa/3.0 unless otherwise specified.
 
