@@ -2,7 +2,7 @@
 
 Software Agreement
 
-This Agreement (the “Agreement”) is a legal agreement between You, either an individual or a Legal Entity, and the Collective Intelligence Foundation ("the Foundation"), a not-for-profit organization incorporated in <STATE>, covering Your permissions to use, reproduce, and distribute works solely created and owned by the Foundation (the "Software") under the License terms defined hereby.
+This Agreement (the “Agreement”) is a legal agreement between You, either an individual or a Legal Entity, and the CSIRT Gadgets Foundation ("the Foundation"), a not-for-profit organization incorporated in Delaware, covering Your permissions to use, reproduce, and distribute works solely created and owned by the Foundation (the "Software") under the License terms defined hereby.
 
 This Agreement is governed by the execution of a Membership Agreement ("Membership Agreement") between You and The Foundation. The Membership Agreement supersedes this Agreement.
 

@@ -1,4 +1,4 @@
-The Collective Intelligence Foundation
+The CSIRT Gadgets Foundation
 ==
 
 Bylaws

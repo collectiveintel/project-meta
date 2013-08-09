@@ -4,12 +4,12 @@ Foundation Bylaws
 ARTICLE 1 NAME AND PURPOSE
 --
 
-The Collective Intelligence Foundation is dedicated to developing actionable, usable tool frameworks tailored to meet security operations intelligence needs. Strong governance must be established to ensure the long term success and stability of the Foundation. The intent of this constitution is to help ensure the long term sustainability and continuity of the project by establishing an initial structure, roles and responsibilities for the Foundation. The Foundation is formed exclusively as a nonprofit trade association within the meaning of Section 501(c)(6) of the Internal Revenue Code of 1986. The Foundation shall have and may exercise all the rights and powers given to nonprofit non-stock corporations under General Corporation Law of <STATE>.
+The CSIRT Gadgets Foundation is dedicated to developing actionable, usable tool frameworks tailored to meet security operations intelligence needs. Strong governance must be established to ensure the long term success and stability of the Foundation. The intent of this constitution is to help ensure the long term sustainability and continuity of the project by establishing an initial structure, roles and responsibilities for the Foundation. The Foundation is formed exclusively as a nonprofit trade association within the meaning of Section 501(c)(6) of the Internal Revenue Code of 1986. The Foundation shall have and may exercise all the rights and powers given to nonprofit non-stock corporations under General Corporation Law of Delaware.
 
 ARTICLE 2 MEMBERSHIP
 --
 
-SECTION 2.1 Definitions. The Collective Intelligence Foundation is a member-based organization. Membership is divided into the following categories: "Founding Members", “Full Members”,"Commercial Members", "Start-Up Members", "Liaison Members" and “Contributors”. Where not otherwise specified, “Member” refers to “Full Member”.
+SECTION 2.1 Definitions. The CSIRT Gadgets Foundation is a member-based organization. Membership is divided into the following categories: "Founding Members", “Full Members”,"Commercial Members", "Start-Up Members", "Liaison Members" and “Contributors”. Where not otherwise specified, “Member” refers to “Full Member”.
 
 SECTION 2.2 Membership Policy. All members are subject to board of director approval until a formal membership committee is formed, executed and policy can be formed. Membership status of all potential members will be determined by the board and a 66.66% vote until a more formal policy can be vetted.
 

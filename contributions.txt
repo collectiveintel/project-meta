@@ -3,7 +3,7 @@
 Contribution Agreement 
 ==
 
-This Agreement (the “Agreement”) is a legal agreement between You, either an individual or a Legal Entity, and the Collective Intelligence Foundation ("the Foundation"), a not-for-profit organization incorporated in <STATE>, for donating any software code or any other Materials (defined below) to the Foundation.
+This Agreement (the “Agreement”) is a legal agreement between You, either an individual or a Legal Entity, and the CSIRT Gadgets Foundation ("the Foundation"), a not-for-profit organization incorporated in Delaware, for donating any software code or any other Materials (defined below) to the Foundation.
 
 This Agreement is governed by the execution of a Membership Agreement ("Membership Agreement") between You and The Foundation. The Membership Agreement supersedes this Agreement.
 
@@ -30,7 +30,7 @@ We reserve the right to remove any Materials in response to complaints of infrin
 3. Choice of Law and Forum
 --
 
-This Agreement is governed by the laws of the <STATE>. You hereby agree to submit to the exclusive jurisdiction of the courts of the State of <STATE>. To the extent that applicable laws have mandatory application to this Agreement or give you the right to bring action in any other courts, the above limitations may not apply to you. 
+This Agreement is governed by the laws of the Delaware. You hereby agree to submit to the exclusive jurisdiction of the courts of the State of Delaware. To the extent that applicable laws have mandatory application to this Agreement or give you the right to bring action in any other courts, the above limitations may not apply to you. 
 
 Severability and Enforceability
 
