@@ -36,10 +36,9 @@ The Foundation may modify the Membership Benefits and fees applicable for any re
 --
 Legal notices shall be given via electronic mail and confirmed via first class U.S. mail to the address for The Foundation below, and to the Member's address stated below the signature block. Notices are deemed received on the day transmitted via electronic mail, or if that day is not a business day, on the first business day following the day delivered.
 
- legal@csirtgadget.org
- The CSIRT Gadgets Foundation
- PO…
- Delaware
+legal@csirtgadget.org  
+The CSIRT Gadgets Foundation  
+Delaware  
 
 9. OTHER. 
 --
