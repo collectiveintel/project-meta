@@ -1,5 +1,3 @@
-# The content of this agreement is considered CC BY-SA 3.0, http://creativecommons.org/licenses/by-sa/3.0 and may be re-used as per the rules of this license. Attribution is NOT required.
-
 Membership Agreement
 ==
 This CSIRT Gadgets Foundation Membership Agreement ("this Agreement") is between the CSIRT Gadgets Foundation, a Delaware non-stock, non-profit corporation ("the Foundation") and "NAME" a ("Member"), and is dated effective as the date listed below ("the Effective Date").
@@ -78,4 +76,4 @@ Membership Benefits:
 
 * Designation as Member with Member's corporate logo placement in members section of csirtgadgets.org
 
-* Profile on csirtgadgets.org detailing your organizations support for CIF, with link to your site;
+* Profile on csirtgadgets.org detailing your organizations support for the Foundation, with link to your site;

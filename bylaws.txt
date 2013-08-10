@@ -83,12 +83,12 @@ SECTION 6.2 Transfers. Members have the ability to transfer any 'works' or 'asse
 ARTICLE 7 INITIAL BOARD OF DIRECTORS
 --
 
-Barely3am Solutions  
-the REN-ISAC  
-Nickel City Software LLC 
-the Anti Phishing Working Group  
-Smith-Sweeney Network & Security Consulting, LLC  
-University of Washington Office of CISO  
+ Barely3am Solutions  
+ the REN-ISAC  
+ Nickel City Software LLC 
+ the Anti Phishing Working Group  
+ Smith-Sweeney Network & Security Consulting, LLC  
+ University of Washington Office of CISO  
 
 ARTICLE 8 Agreements
 --
