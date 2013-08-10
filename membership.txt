@@ -10,7 +10,7 @@ Subject to the terms of this Agreement, the Foundation will provide the member w
 
 2. OBLIGATIONS.
 --
-Member implicitly agrees to comply with the Foundations Bylaws, Software License and Contribution Agreements at collectiveintel.org/legal. Member will provide graphics and other materials necessary for the Foundation to provide Member Benefits. Member will pay the fees due for the Membership Benefits.
+Member implicitly agrees to comply with the Foundations Bylaws, Software License and Contribution Agreements at csirtgadgets.org/legal. Member will provide graphics and other materials necessary for the Foundation to provide Member Benefits. Member will pay the fees due for the Membership Benefits.
 
 3. MARKS. 
 --
@@ -32,7 +32,7 @@ The initial term of this Agreement will begin on the Effective Date and continue
 
 7. MODIFICATION OF MEMBERSHIP BENEFITS FOR RENEWAL TERMS. 
 --
-The Foundation may modify the Membership Benefits and fees applicable for any renewal term by posting revised fees and benefits on collectiveintel.org. Any fee increase or change that reduces the Membership Benefits will become effective as to Member upon the beginning of the first Renewal Term that follows the date that the charges are posted by at least thirty (30) days.
+The Foundation may modify the Membership Benefits and fees applicable for any renewal term by posting revised fees and benefits on csirtgadgets.org. Any fee increase or change that reduces the Membership Benefits will become effective as to Member upon the beginning of the first Renewal Term that follows the date that the charges are posted by at least thirty (30) days.
 
 8. NOTICES. 
 --
@@ -74,8 +74,8 @@ _____ Individual Member
 
 Membership Benefits:
 --
-* More permissive Software License to all works owned by and/or created by the Foundation as reflected in the Software License at: collectiveintel.org/legal
+* More permissive Software License to all works owned by and/or created by the Foundation as reflected in the Software License at: csirtgadgets.org/legal
 
-* Designation as Member with Member's corporate logo placement in members section of collectiveintel.org
+* Designation as Member with Member's corporate logo placement in members section of csirtgadgets.org
 
-* Profile on collectiveintel.org detailing your organizations support for CIF, with link to your site;
+* Profile on csirtgadgets.org detailing your organizations support for CIF, with link to your site;

@@ -20,7 +20,7 @@ This Agreement is governed by the execution of a Membership Agreement ("Membersh
 
 "Packaged Software License" shall mean the document recognized as the default LICENSE within a copyrighted work. By default, all works created or owned by the Foundation are LICENSED under version 3.0 of the LGPL.
 
-"Contribution Agreement" shall refer to the agreement governing contributions made to the Foundation. This means any Code, designs, templates, methods, ideas, inventions, written materials, software, source code, object code, technologies or anything else sent by You to the Foundation. The full text of this agreement can be found at collectiveintel.org/legal/contributions.
+"Contribution Agreement" shall refer to the agreement governing contributions made to the Foundation. This means any Code, designs, templates, methods, ideas, inventions, written materials, software, source code, object code, technologies or anything else sent by You to the Foundation. The full text of this agreement can be found at csirtgadgets.org/legal/contributions.
 
 “You” (or “Your”) shall mean an individual or a Legal Entity exercising permissions granted by the License and accepting this Agreement.
 
@@ -42,7 +42,7 @@ All rights of any kind to the Software, which are not expressly granted in this 
 
 You may use, install, copy, and distribute the Software solely as provided in this Agreement. You may not rent, lease, loan, sublicense the Software in whole or in part, nor permit anyone else to do so, unless an additional license is available for such scope.
 
-This Agreement does not apply to works contributed to but not solely owned by The Foundation. A complete list of Foundation owned works can be found at collectiveintel.org/projects.
+This Agreement does not apply to works contributed to but not solely owned by The Foundation. A complete list of Foundation owned works can be found at csirtgadgets.org/projects.
 
 5. Agreement Acceptance.
 --
@@ -50,7 +50,7 @@ This Agreement is automatically accepted by both parties upon execution of the M
 
 Legal Evidences are not transferable.
 
-As part of this Agreement You implicitly accept the Foundation's "Contribution Agreement" which can be found as part of this agreement package or by visiting: collectiveintel.org/legal
+As part of this Agreement You implicitly accept the Foundation's "Contribution Agreement" which can be found as part of this agreement package or by visiting: csirtgadgets.org/legal
 
 6. Support.
 --

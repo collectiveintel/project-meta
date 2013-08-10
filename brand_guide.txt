@@ -22,7 +22,7 @@ Use these logos for promoting the CIF project on your own sites and blogs. A var
 
 The primary CIF Logo
 
-We generally do not allow the use of the CIF logo. If you would like to request special permission for a specific use, please contact us at logo@collectiveintel.org.
+We generally do not allow the use of the CIF logo. If you would like to request special permission for a specific use, please contact us at logo@csirtgadgets.org.
 
 CIF Community: You may use the CIF logo available here for community building activities, provided these activities and uses are not commercial in nature. We just ask that you follow these sensible usage guidelines.
 
@@ -30,4 +30,4 @@ For Commercial Projects
 
 "Powered By CIF"
 
-If you have a service offering that uses formally released CIF code in your application or product, you may be eligible for the "Powered by CIF" marketing program, which includes a specific commercial-use logo and wordmark treatment for your product name. See the logo guidelines at the the above link, and contact logo@collectiveintel.org for more details.  A signed OEM agreement is required.
+If you have a service offering that uses formally released CIF code in your application or product, you may be eligible for the "Powered by CIF" marketing program, which includes a specific commercial-use logo and wordmark treatment for your product name. See the logo guidelines at the the above link, and contact logo@ccsirtgadgets.org for more details.  A signed OEM agreement is required.

@@ -4,7 +4,7 @@ Foundation Bylaws
 ARTICLE 1 NAME AND PURPOSE
 --
 
-The CSIRT Gadgets Foundation is dedicated to developing actionable, usable tool frameworks tailored to meet security operations intelligence needs. Strong governance must be established to ensure the long term success and stability of the Foundation. The intent of this constitution is to help ensure the long term sustainability and continuity of the project by establishing an initial structure, roles and responsibilities for the Foundation. The Foundation is formed exclusively as a nonprofit trade association within the meaning of Section 501(c)(6) of the Internal Revenue Code of 1986. The Foundation shall have and may exercise all the rights and powers given to nonprofit non-stock corporations under General Corporation Law of Delaware.
+The CSIRT Gadgets Foundation is dedicated to developing actionable, usable tool frameworks tailored to meet security operations intelligence needs. Strong governance must be established to ensure the long term success and stability of the Foundation. The intent of this constitution is to help ensure the long term sustainability and continuity of the Foundation by establishing an initial structure, roles and responsibilities for the Foundation. The Foundation is formed exclusively as a nonprofit trade association within the meaning of Section 501(c)(6) of the Internal Revenue Code of 1986. The Foundation shall have and may exercise all the rights and powers given to nonprofit non-stock corporations under General Corporation Law of Delaware.
 
 ARTICLE 2 MEMBERSHIP
 --
@@ -31,7 +31,7 @@ ARTICLE 3 GOVERNANCE
 --
 SECTION 3.1 Board of Directors
 
-SUBSECTION 3.1.1 Powers. The business and affairs of the Corporation shall be managed by or under the direction of the Board of Directors, which may exercise all such powers of the Incorporation or by these Bylaws specifically reserved to the Members. The Board of Directors shall also be responsible for developing policies and procedures concerning the operation of the Project including (but not limited to) policies for solicitation, acceptance and management of grants, contracts and donations.
+SUBSECTION 3.1.1 Powers. The business and affairs of the Corporation shall be managed by or under the direction of the Board of Directors, which may exercise all such powers of the Incorporation or by these Bylaws specifically reserved to the Members. The Board of Directors shall also be responsible for developing policies and procedures concerning the operation of the Foundation including (but not limited to) policies for solicitation, acceptance and management of grants, contracts and donations.
 
 SUBSECTION 3.1.2 Number. The Corporation shall have no more than seven (7) Directors.
 
@@ -54,7 +54,7 @@ The intent of our Intellectual Property policy is to ensure both the author of t
 
 SECTION 4.1 Copyright. Copyright determines who owns the 'work'. The copyright holder is the one who determines what license the 'work' is distributed as.
 
-SUBSECTION 4.1.1 Software. Any contributions (major or minor) will be accepted as contributions to the project. By contributing to the project authors are transferring any rights to their contribution and asserts they have the right to contribute and transfer these rights. Where applicable credit will be given to the author(s). Members are required to sign contribution agreements with the Foundation in a 'best effort' to ensure the integrity of the code bases.
+SUBSECTION 4.1.1 Software. Any contributions (major or minor) will be accepted as contributions to the Foundation. By contributing to the Foundation authors are transferring any rights to their contribution and asserts they have the right to contribute and transfer these rights. Where applicable credit will be given to the author(s). Members are required to sign contribution agreements with the Foundation in a 'best effort' to ensure the integrity of the code bases. The Contribution Agreement can be found at csirtgadgets.org/legal.
 
 SUBSECTION 4.1.2 Presentations and Papers. Copyrights in papers or presentations published through the Foundation are to be assigned to the Foundation and are in all cases to be CCv3 licensed as defined by http://creativecommons.org/licenses/by-sa/3.0 unless otherwise specified. Authors are given full recognition for their authorship in the paper, if they so desire.
 
@@ -95,6 +95,6 @@ ARTICLE 8 Agreements
 
 SECTION 8.1 Repository. All master agreement templates shall be located at [https://github.com/collectiveintel/agreements](https://github.com/collectiveintel/agreements)
 
-SECTION 8.2 Releases. All recent releases of agreements shall be made available at [collectiveintel.org/legal](collectiveintel.org/legal)
+SECTION 8.2 Releases. All recent releases of agreements shall be made available at [csirtgadgets.org/legal](csirtgadgets.org/legal)
 
 SECTION 8.3 License. All agreements shall be released under CCv3 http://creativecommons.org/licenses/by-sa/3.0 NO ATTRIBUTION REQUIRED unless otherwise specified.
