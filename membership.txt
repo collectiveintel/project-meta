@@ -14,7 +14,7 @@ Member implicitly agrees to comply with the Foundations Bylaws, Software License
 --
 The term "Marks" means each party's respective names, logos, trademarks, trade names, domain names, and other identifying indicia. 
 
-Member herby grants the Foundation a license to use the Member's Marks as necessary to provide the Membership Benefits on a realty free, non-exclusive, non-transferable, non-sublicenseable basis. The Foundation agrees to comply with the Member's trademark usage policies and ongoing instructions and supervision with respect to its Marks communicated to the Foundation, including (i) the content in which the Marks are used; (ii) the substitution of a newer version of a mark for the version previously authorized (where practicable); (iii) the size, color, and graphic quality of the display of the Marks; and (iv) all other matters within th reasonable discretion of the Member. Member reserves all rights in its Marks, including any non-English version of such Marks. The Foundation's use of Member's Marks shall inure to the benefit of the Member.
+Member herby grants the Foundation a license to use the Member's Marks as necessary to provide the Membership Benefits on a royalty free, non-exclusive, non-transferable, non-sublicenseable basis. The Foundation agrees to comply with the Member's trademark usage policies and ongoing instructions and supervision with respect to its Marks communicated to the Foundation, including (i) the content in which the Marks are used; (ii) the substitution of a newer version of a mark for the version previously authorized (where practicable); (iii) the size, color, and graphic quality of the display of the Marks; and (iv) all other matters within th reasonable discretion of the Member. Member reserves all rights in its Marks, including any non-English version of such Marks. The Foundation's use of Member's Marks shall inure to the benefit of the Member.
 
 4. PAYMENTS. 
 --
@@ -37,8 +37,8 @@ The Foundation may modify the Membership Benefits and fees applicable for any re
 Legal notices shall be given via electronic mail and confirmed via first class U.S. mail to the address for The Foundation below, and to the Member's address stated below the signature block. Notices are deemed received on the day transmitted via electronic mail, or if that day is not a business day, on the first business day following the day delivered.
 
 legal@csirtgadget.org  
-The CSIRT Gadgets Foundation  
-Delaware  
+CSIRT Gadgets Foundation  
+16192 Coastal Highway, Lewes, Delaware, 19958, United States  
 
 9. OTHER. 
 --
@@ -76,3 +76,5 @@ Membership Benefits:
 * Designation as Member with Member's corporate logo placement in members section of csirtgadgets.org
 
 * Profile on csirtgadgets.org detailing your organizations support for the Foundation, with link to your site;
+
+* Royalty free, non-exclusive, non-transferable, non-sublicenseable to use of the brand marks "Powered by CIF" or "Powered by CSIRT Gadgets" as part of their business offerings as described in the Foundations Brand Guide ("Brand Guide")
