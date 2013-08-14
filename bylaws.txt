@@ -15,15 +15,15 @@ SECTION 2.2 Membership Policy. All members are subject to board of director appr
 
 SECTION 2.3 Founding Members. A Founding Member is an individual who bootstrapped the Foundation and can be found in ARTICLE 7. Founding members maintain full control over the organization until such a time where the organization is stable, self-sustaining and where a full operational governance structure has been matured. The Founding Members shall make up the initial board of directors and shall have the ability to alter this document with a 66.66% vote.
 
-SECTION 2.4 Full Members. A Full Member is a trusted member of the organization who is actively contributing to the organization and/or its reputation.
+SECTION 2.4 Full Members. A Full Member is a trusted member of the organization who is actively contributing to the organization and/or its reputation. Full Members typically represent organizations who assist an information technology community or other defined constituency in preventing and handling computer security-related incidents. Example Full Members may include; national or sector level established CSIRT organizations, national or sector level established security research organizations.
 
-SECTION 2.5 Commercial Members. A Commercial or Start-Up Member is a member who joins, contributes to and has an interest in commercializing tools and frameworks developed within the Foundation. These members typically offer some value add to communities outside the initial membership reach.
+SECTION 2.5 Commercial Members. A Commercial or Start-Up Member is a member who joins, contributes to and has an interest in contributing to, and the promotion of works developed in conjunction with the Foundation. These members typically offer some value add to external communities. Commercial Members are defined as being incorporated for more than three years. Start-Up Members are defined as having been incorporated less than three years. Start-Up Members shall be re-evaluated for Commercial Membership during the renewal process of their third year incorporation anniversary. At the Board of Directors approval, a Start-Up Member may apply for yearly extensions of their Start-Up Member status depending on their company size in relation to other Start-Up/Commercial Members. Legal Entities with multiple non-private stock holders, and/or public companies are automatically defined as Commercial Members.
 
-SECTION 2.6 Liaison Members. A Liaison Member is an individual (rather than a corporate entity) that has intrinsic value to the Foundation. These members are typically individuals who find value in the Foundation, regularly contribute to the communities sustainability.
+SECTION 2.6 Liaison Members. A Liaison Member is an individual or representatives of organizations that have a legitimate interest in and provide value to the Foundation. These members are typically individuals who find value in the Foundation and regularly contribute to the community's sustainability. Liaison Members may include lower level CSIRT organizations that aren't able to participate as Full Members.
 
 SECTION 2.7 Membership Fees. To help finance the operations of the Foundation, vetted members will pay a yearly fee which will also entitle them to major releases of specified frameworks under more permissive licensing terms for the period of one year. Such period may be renewed at the discretion of the board of directors. Terms and conditions shall be specified under a separate Software Agreement on a per-relationship basis.
 
-SECTION 2.8 Sponsor. A Sponsor is an individual or corporate entity that does not or is not able to participate as an official member. Sponsors are able to regularly able to contribute in lesser amounts than normal members. Regular Sponsors (yearly) will receive recognition for their contribution on the Foundations website but will not receive the benefits of membership (license, etc).
+SECTION 2.8 Sponsor. A Sponsor is an individual or corporate entity that does not or is not able to participate as an official member. Sponsors are able to regularly able to contribute in lesser amounts than normal members. Regular Sponsors (yearly) will receive recognition for their contribution on the Foundations website but will not receive the benefits of membership.
 
 SECTION 2.9. Agreements. All members are required to sign a Membership Agreement documenting their relationship agreement with the Foundation.
 
@@ -62,7 +62,7 @@ SECTION 4.2 License. License determines who and how people can use, modify, and 
 
 SUBSECTION 4.2.1 Software. Any software developed within or distributed through the Foundation must be open source, as defined by http://www.opensource.org. We recommend the use of the LGPLv3 license but any open source license is acceptable.
 
-SUBSECTION 4.3 Agreements. All Members are required to sign and execute a membership agreement ("Membership Agreement") with the Foundation. By execution of the Membership Agreement, the Member implicitly agrees to the Software Agreement and the contribution agreement ("Contribution Agreement") and shall enjoy all rights and obligations thereof.
+SUBSECTION 4.3 Agreements. All Members are required to sign and execute a membership agreement ("Membership Agreement") with the Foundation. By execution of the Membership Agreement, the Member implicitly agrees to the Software Agreement ("Software Agreement") and the contribution agreement ("Contribution Agreement") and shall enjoy all rights and obligations thereof.
 
 ARTICLE 5 LIABILITY AND INDEMNIFICATION
 --
@@ -78,7 +78,7 @@ ARTICLE 6 GENERAL PROVISIONS
 
 SECTION 6.1 Amendments. These bylaws may be altered, amended, replaced or added to by a 66.66% or greater vote in the affirmative by the board of directors.
 
-SECTION 6.2 Transfers. Members have the ability to transfer any 'works' or 'assets' to the Foundation they wish to be fostered and incubated. The Foundation has the right to reject these works if deemed that it is not the right place or the Foundation does not have the resources to facilitate.
+SECTION 6.2 Transfers. Members have the ability to transfer any 'works' or 'assets' to the Foundation they wish to be placed under the Foundation's stewardship. The Foundation has the right to reject these works if deemed that it is not the right place or the Foundation does not have the resources to maintain the 'works' or 'assets'.
 
 ARTICLE 7 INITIAL BOARD OF DIRECTORS
 --
@@ -92,7 +92,7 @@ ARTICLE 7 INITIAL BOARD OF DIRECTORS
 ARTICLE 8 Agreements
 --
 
-SECTION 8.1 Repository. All master agreement templates shall be located at [https://github.com/collectiveintel/agreements](https://github.com/collectiveintel/agreements)
+SECTION 8.1 Repository. All master agreement templates shall be located at [https://github.com/csirtgadgets/agreements](https://github.com/csirtgadgets/agreements)
 
 SECTION 8.2 Releases. All recent releases of agreements shall be made available at [csirtgadgets.org/legal](csirtgadgets.org/legal)
 
