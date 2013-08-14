@@ -8,7 +8,7 @@ Subject to the terms of this Agreement, the Foundation will provide the member w
 
 2. OBLIGATIONS.
 --
-Member implicitly agrees to comply with the Foundations Bylaws, Software License and Contribution Agreements at csirtgadgets.org/legal. Member will provide graphics and other materials necessary for the Foundation to provide Member Benefits. Member will pay the fees due for the Membership Benefits.
+Member implicitly agrees to comply with the Foundations Bylaws, Software Agreement and Contribution Agreements at csirtgadgets.org/legal. Member will provide graphics and other materials necessary for the Foundation to provide Member Benefits. Member will pay the fees due for the Membership Benefits. Member will provide explicit points of contact of which have full Member authority to engage with the Foundation on behalf of the Member organization. Member will provide points of contact in writing and may change at any time with written notice to the Foundation.
 
 3. MARKS. 
 --
@@ -59,6 +59,9 @@ Date:
 
 Attach: Exhibit A
 ==
+Member Status
+--
+
 The Member elects and the board agrees to the designated membership status of (please initial choice):
 
 _____ Full Member
@@ -68,6 +71,17 @@ _____ Commercial Member
 _____ Startup Commercial Member
 
 _____ Individual Member
+
+Points of Contact
+--
+
+The Member establishes it's points of contact as:
+
+NAME:
+
+NAME:
+
+NAME:
 
 Membership Benefits:
 --
