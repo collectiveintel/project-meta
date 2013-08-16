@@ -21,11 +21,11 @@ SECTION 2.5 Commercial Members. A Commercial or Start-Up Member is a member who 
 
 SECTION 2.6 Liaison Members. A Liaison Member is an individual or representatives of organizations that have a legitimate interest in and provide value to the Foundation. These members are typically individuals who find value in the Foundation and regularly contribute to the community's sustainability. Liaison Members may include lower level CSIRT organizations that aren't able to participate as Full Members.
 
-SECTION 2.7 Membership Fees. To help finance the operations of the Foundation, vetted members will pay a yearly fee which will also entitle them to major releases of specified frameworks under more permissive licensing terms for the period of one year. Such period may be renewed at the discretion of the board of directors. Terms and conditions shall be specified under a separate Software Agreement on a per-relationship basis.
+SECTION 2.7 Membership Fees. To help finance the operations of the Foundation, Members will pay a yearly fee. Such period may be renewed at the discretion of the board of directors.
 
 SECTION 2.8 Sponsor. A Sponsor is an individual or corporate entity that does not or is not able to participate as an official member. Sponsors are able to regularly able to contribute in lesser amounts than normal members. Regular Sponsors (yearly) will receive recognition for their contribution on the Foundations website but will not receive the benefits of membership.
 
-SECTION 2.9. Agreements. All members are required to sign a Membership Agreement documenting their relationship agreement with the Foundation.
+SECTION 2.9. Agreements. All members are required to sign a Membership Agreement ("Membership Agreement") documenting their relationship agreement with the Foundation.
 
 ARTICLE 3 GOVERNANCE
 --
@@ -54,7 +54,7 @@ The intent of our Intellectual Property policy is to ensure both the author of t
 
 SECTION 4.1 Copyright. Copyright determines who owns the 'work'. The copyright holder is the one who determines what license the 'work' is distributed as.
 
-SUBSECTION 4.1.1 Software. Any contributions (major or minor) will be accepted as contributions to the Foundation. By contributing to the Foundation authors are transferring any rights to their contribution and asserts they have the right to contribute and transfer these rights. Where applicable credit will be given to the author(s). Members are required to sign contribution agreements with the Foundation in a 'best effort' to ensure the integrity of the code bases. The Contribution Agreement can be found at csirtgadgets.org/legal.
+SUBSECTION 4.1.1 Software. Any contributions (major or minor) will be accepted as contributions to the Foundation. By contributing to the Foundation authors are transferring any rights to their contribution and asserts they have the right to contribute and transfer these rights. Where applicable credit will be given to the author(s). Members are required to sign the Contribution Agreement ("Contribution Agreement") with the Foundation in a 'best effort' to ensure the integrity of the code bases. The Contribution Agreement can be found at csirtgadgets.org/legal.
 
 SUBSECTION 4.1.2 Presentations and Papers. Copyrights in papers or presentations published through the Foundation are to be assigned to the Foundation and are in all cases to be CCv3 licensed as defined by http://creativecommons.org/licenses/by-sa/3.0 unless otherwise specified. Authors are given full recognition for their authorship in the paper, if they so desire.
 
@@ -62,7 +62,7 @@ SECTION 4.2 License. License determines who and how people can use, modify, and 
 
 SUBSECTION 4.2.1 Software. Any software developed within or distributed through the Foundation must be open source, as defined by http://www.opensource.org. We recommend the use of the LGPLv3 license but any open source license is acceptable.
 
-SUBSECTION 4.3 Agreements. All Members are required to sign and execute a membership agreement ("Membership Agreement") with the Foundation. By execution of the Membership Agreement, the Member implicitly agrees to the Software Agreement ("Software Agreement") and the contribution agreement ("Contribution Agreement") and shall enjoy all rights and obligations thereof.
+SUBSECTION 4.3 Agreements. All Members are required to sign and execute a membership agreement with the Foundation. By execution of the Membership Agreement, the Member implicitly agrees to the Contribution Agreement and shall enjoy all rights and obligations thereof.
 
 ARTICLE 5 LIABILITY AND INDEMNIFICATION
 --
