@@ -8,7 +8,7 @@ Subject to the terms of this Agreement, the Foundation will provide the member w
 
 2. OBLIGATIONS.
 --
-Member implicitly agrees to comply with the Foundations Bylaws, Software Agreement and Contribution Agreements at csirtgadgets.org/legal. Member will provide graphics and other materials necessary for the Foundation to provide Member Benefits. Member will pay the fees due for the Membership Benefits. Member will provide explicit points of contact of which have full Member authority to engage with the Foundation on behalf of the Member organization. Member will provide points of contact in writing and may change at any time with written notice to the Foundation.
+Member implicitly agrees to comply with the Foundations Bylaws and the Contribution Agreement ("Contribution Agreement") at csirtgadgets.org/legal. Member will provide graphics and other materials necessary for the Foundation to provide Member Benefits. Member will pay the fees due for the Membership Benefits. Member will provide explicit points of contact of which have full Member authority to engage with the Foundation on behalf of the Member organization. Member will provide points of contact in writing and may change at any time with written notice to the Foundation.
 
 3. MARKS. 
 --
@@ -26,7 +26,7 @@ If The Foundation or any of its respective employees, agents or owners (collecti
 
 6. TERM AND TERMINATION. 
 --
-The initial term of this Agreement will begin on the Effective Date and continue until the first anniversary of the Effective Date (the "Initial Term") either by written agreement of the parties, or by the Member's timely payment of the Foundation's renewal invoice. Either party my terminate this Agreement or a Membership Agreement without liability if the other party violates the terms of this Agreement, the Foundations Bylaws, the Software Agreement, the Contribution Agreement, or any other Agreement between the parties, and fails to cure such breach, if curable, within fifteen (15) days of the other party's written notice. Upon termination of this Agreement, each party will cease use of the other party's Marks as promptly as commercially practicable.
+The initial term of this Agreement will begin on the Effective Date and continue until the first anniversary of the Effective Date (the "Initial Term") either by written agreement of the parties, or by the Member's timely payment of the Foundation's renewal invoice. Either party my terminate this Agreement or a Membership Agreement without liability if the other party violates the terms of this Agreement, the Foundations Bylaws, the Contribution Agreement, or any other Agreement between the parties, and fails to cure such breach, if curable, within fifteen (15) days of the other party's written notice. Upon termination of this Agreement, each party will cease use of the other party's Marks as promptly as commercially practicable.
 
 7. MODIFICATION OF MEMBERSHIP BENEFITS FOR RENEWAL TERMS. 
 --
@@ -85,10 +85,8 @@ NAME:
 
 Membership Benefits:
 --
-* More permissive Software License to all works owned by and/or created by the Foundation as reflected in the Software License at: csirtgadgets.org/legal
-
 * Designation as Member with Member's corporate logo placement in members section of csirtgadgets.org
 
 * Profile on csirtgadgets.org detailing your organizations support for the Foundation, with link to your site;
 
-* Royalty free, non-exclusive, non-transferable, non-sublicenseable to use of the brand marks "Powered by CIF" or "Powered by CSIRT Gadgets" as part of their business offerings as described in the Foundations Brand Guide ("Brand Guide")
+* Royalty free, non-exclusive, non-transferable, non-sublicenseable to use of the brand marks "Powered by CIF" or "Powered by CSIRT Gadgets" or "Member of CSIRT Gadgets" as part of their business offerings as described in the Foundations Brand Guide ("Brand Guide")
