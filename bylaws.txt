@@ -9,7 +9,7 @@ The CSIRT Gadgets Foundation is dedicated to developing actionable, usable tool 
 ARTICLE 2 MEMBERSHIP
 --
 
-SECTION 2.1 Definitions. The CSIRT Gadgets Foundation is a member-based organization. Membership is divided into the following categories: "Founding Members", “Full Members”,"Commercial Members", "Start-Up Members", "Liaison Members" and “Contributors”. Where not otherwise specified, “Member” refers to “Full Member”.
+SECTION 2.1 Definitions. The CSIRT Gadgets Foundation is a member-based organization. Membership is divided into the following categories: "Founding Members", “Full Members”,"Commercial Members", "Start-Up Members", "Liaison Members" and “Individual Members”. Where not otherwise specified, “Member” refers to “Full Member”.
 
 SECTION 2.2 Membership Policy. All members are subject to board of director approval until a formal membership committee is formed, executed and policy can be formed. Membership status of all potential members will be determined by the board and a 66.66% vote until a more formal policy can be vetted.
 
@@ -19,13 +19,15 @@ SECTION 2.4 Full Members. A Full Member is a trusted member of the organization 
 
 SECTION 2.5 Commercial Members. A Commercial or Start-Up Member is a member who joins, contributes to and has an interest in contributing to, and the promotion of works developed in conjunction with the Foundation. These members typically offer some value add to external communities. Commercial Members are defined as being incorporated for more than three years. Start-Up Members are defined as having been incorporated less than three years. Start-Up Members shall be re-evaluated for Commercial Membership during the renewal process of their third year incorporation anniversary. At the Board of Directors approval, a Start-Up Member may apply for yearly extensions of their Start-Up Member status depending on their company size in relation to other Start-Up/Commercial Members. Legal Entities with multiple non-private stock holders, and/or public companies are automatically defined as Commercial Members.
 
-SECTION 2.6 Liaison Members. A Liaison Member is an individual or representatives of organizations that have a legitimate interest in and provide value to the Foundation. These members are typically individuals who find value in the Foundation and regularly contribute to the community's sustainability. Liaison Members may include lower level CSIRT organizations that aren't able to participate as Full Members.
+SECTION 2.6 Liaison Members. A Liaison Member is an individual or representatives of organizations that have a legitimate interest in and provide value to the Foundation. These members are typically individuals who find value in the Foundation and regularly contribute to the community and it's sustainability. Liaison Members may include lower level CSIRT organizations that aren't able to participate as Full Members.
 
-SECTION 2.7 Membership Fees. To help finance the operations of the Foundation, Members will pay a yearly fee. Such period may be renewed at the discretion of the board of directors.
+SECTION 2.7 Individual Members. An Individual Member is an individual that has a legitimate interest in and provide value to the Foundation. These members are typically individuals who find value in the Foundation and regularly contribute to the community and it's sustainability. Liaison Members may include lower level CSIRT organizations that aren't able to participate as Liaison Members.
 
-SECTION 2.8 Sponsor. A Sponsor is an individual or corporate entity that does not or is not able to participate as an official member. Sponsors are able to regularly able to contribute in lesser amounts than normal members. Regular Sponsors (yearly) will receive recognition for their contribution on the Foundations website but will not receive the benefits of membership.
+SECTION 2.8 Membership Fees. To help finance the operations of the Foundation, Members will pay a yearly fee. Such period may be renewed at the discretion of the board of directors.
 
-SECTION 2.9. Agreements. All members are required to sign a Membership Agreement ("Membership Agreement") documenting their relationship with the Foundation.
+SECTION 2.9 Sponsor. A Sponsor is an individual or corporate entity that does not or is not able to participate as an official member. Sponsors are able to regularly able to contribute in lesser amounts than normal members. Regular Sponsors (yearly) will receive recognition for their contribution on the Foundations website but will not receive the benefits of membership.
+
+SECTION 2.10. Agreements. All members are required to sign a Membership Agreement ("Membership Agreement") documenting their relationship with the Foundation.
 
 ARTICLE 3 GOVERNANCE
 --
